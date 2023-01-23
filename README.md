@@ -12,5 +12,9 @@ After the generated HTML page, the user will see the page based on the informati
 ![alt text](./images/image2.png)
 
 
+##The URL of the GitHub repository:
+https://bamidele100.github.io/Team-Profile-Generator/
+
+
 © 2023 Bamidele Talabi. Confidential and Proprietary. All Rights Reserved
 
