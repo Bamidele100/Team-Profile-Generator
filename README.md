@@ -1,6 +1,6 @@
 # Team-Profile-Generator
 
-##Team Profile Generator Using Object-Oriented Programming
+#Team Profile Generator Using Object-Oriented Programming
 
 The appilcation is designed to generate an HTML page for employees of a company. It works in such a way of collecting employee's names, Indentication numbers, email addresses and office numbers through input prompts using visual studio code together with node.js to run in a terminal, inquirer for prompts, jest to test the application's functionality. 
 
