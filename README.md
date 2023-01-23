@@ -9,7 +9,7 @@ After the generated HTML page, the user will see the page based on the informati
 
 ## Generated images
 ![alt text](./images/image1.png)
-![alt text](./images/image2.png
+![alt text](./images/image2.png)
 
 
 © 2023 Bamidele Talabi. Confidential and Proprietary. All Rights Reserved
